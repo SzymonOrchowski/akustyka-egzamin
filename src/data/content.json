@@ -1,0 +1,254 @@
+[
+  {
+    "id": "01 - Powtórzenie informacji z zakresu fizyki dźwięku. Parametry fizyczne fali akustycznej.md",
+    "title": "01 - Powtórzenie informacji z zakresu fizyki dźwięku. Parametry fizyczne fali akustycznej",
+    "content": "# 01 - Powtórzenie informacji z zakresu fizyki dźwięku. Parametry fizyczne fali akustycznej\n\n## 1. W skrócie (TL;DR)\nFala akustyczna to mechaniczne zaburzenie rozchodzące się w ośrodku (np. powietrzu), które przenosi energię bez przenoszenia materii.\n\n## 2. Wytłumaczenie \"Podręcznikowe\" (wg Everesta)\nDźwięk jest falą podłużną, polegającą na prezenoszeniu drgań cząsteczek ośrodka sprężystego. Cząsteczki te zagęszczają się (wzrost ciśnienia) i rozrzedzają (spadek ciśnienia) wokół położenia równowagi. Ruch fali jest równoległy do kierunku drgań cząsteczek.\nKluczowe parametry fizyczne to: częstotliwość ($f$), okres ($T$), długość fali ($\\lambda$), amplituda i prędkość dźwięku ($c$).\n\n![Wykres fali sinusoidalnej](/images/01_fala.svg)\n\n## 3. Wytłumaczenie \"Dla Laika\"\nWyobraź sobie sprężynę (slinky). Kiedy popchniesz jeden koniec, \"ścisk\" wędruje wzdłuż sprężyny do drugiego końca, mimo że sama sprężyna nie przesuwa się po podłodze – tylko jej zwoje chwilowo się zbliżają i oddalają.\n- **Częstotliwość (wysokość dźwięku):** Jak szybko machasz ręką pchając sprężynę. Szybciej = wyższy dźwięk (pisak). Wolniej = niższy dźwięk (bas).\n- **Amplituda (głośność):** Jak mocno popchniesz sprężynę. Mocniej = głośniej.\n- **Długość fali:** Odległość między jednym \"ściskiem\" a kolejnym.\n\n## 4. Najważniejsze pojęcia\n*   **Częstotliwość ($f$):** Liczba cykli (drgań) na sekundę. Jednostka: Herc [Hz]. Decyduje o wysokości dźwięku. Zakres słyszalny dla człowieka: 20 Hz – 20 kHz.\n*   **Okres ($T$):** Czas trwania jednego pełnego cyklu. Odwrotność częstotliwości.\n*   **Długość fali ($\\lambda$ - lambda):** Fizyczna odległość, jaką pokonuje fala w trakcie jednego pełnego cyklu. Niskie tony mają długie fale (nawet kilkanaście metrów), wysokie tony krótkie (kilka centymetrów).\n*   **Prędkość dźwięku ($c$):** Prędkość, z jaką zaburzenie przemieszcza się w ośrodku. W powietrzu (w temp. pokojowej ok. 20°C) wynosi ok. **344 m/s**.\n\n## 5. Niezbędne wzory\nTylko jeden, absolutnie kluczowy wzór, który musisz znać na pamięć. Wiąże on prędkość, długość fali i częstotliwość:\n\n$$ \\lambda = \\frac{c}{f} $$\n\nGdzie:\n*   $\\lambda$ = długość fali [m]\n*   $c$ = prędkość dźwięku [m/s] (zazwyczaj przyjmowane jako 344 m/s lub 340 m/s)\n*   $f$ = częstotliwość [Hz]\n\n**Przykład praktyczny:**\nJaka jest długość fali dla 100 Hz?\n$\\lambda = 344 / 100 = 3,44$ metra.\n\n### 5.1. Długość fali w muzyce i życiu (Skala wielkości dla c = 344 m/s)\nDla lepszego wyobrażenia sobie skali zjawisk, oto długości fal dla popularnych dźwięków instrumentów i głosu. Warto zwrócić uwagę, że niskie basy to fale wielkości autobusu, a wysokie dźwięki to drobne fale mieszczące się w dłoni.\n\n| Źródło dźwięku / Nazwa nuty | Częstotliwość (ok.) | Długość fali ($\\lambda$) | Porównanie wielkości |\n| :--- | :--- | :--- | :--- |\n| **C1** (Bardzo niski dźwięk fortepianu) | 32.7 Hz | **~10,5 m** | Długość tira / autobusu |\n| **E1** (Pusta struna gitary basowej 4-str.) | 41.2 Hz | **~8,35 m** |  |\n| **E2** (Pusta struna E gitary akustycznej / głos Basso Profondo) | 82.4 Hz | **~4,17 m** | Długość samochodu osobowego |\n| **Zakres mowy męskiej** (ton podstawowy) | ok. 100 - 120 Hz | **~3,4 m - 2,8 m** | Wysokość kondygnacji budynku |\n| **G3** (Niski dźwięk dla altu) | 196 Hz | **~1,75 m** | Wzrost przeciętnego człowieka |\n| **Zakres mowy kobiecej** (ton podstawowy) | ok. 200 - 250 Hz | **~1,7 m - 1,4 m** | Rozpiętość ramion |\n| **A4** (Kamerton, struna A wiolonczeli) | 440 Hz | **~78 cm** | Długość ręki / szerokość drzwi |\n| **C8** (Najwyższy dźwięk fortepianu) | 4186 Hz | **~8,2 cm** | Długość palca |\n| **Pisk (odstraszacz na jeże/kuny)** | 10 - 12 kHz | **~3,4 cm - 2,8 cm** | Wielkość orzecha włoskiego / monety |\n\n## 6. Zapamiętaj na egzamin\n*   Dźwięk w powietrzu to fala **podłużna**.\n*   Im wyższa częstotliwość, tym krótsza fala (łatwiej ją zatrzymać cienką przeszkodą).\n*   Im niższa częstotliwość, tym dłuższa fala (łatwiej \"omi\" przeszkody - dyfrakcja).\n\n",
+    "lastModified": "2026-02-06T23:30:00.929Z"
+  },
+  {
+    "id": "02 - Powtórzenie informacji z zakresu fizyki dźwięku. Interferencja..md",
+    "title": "02 - Powtórzenie informacji z zakresu fizyki dźwięku. Interferencja.",
+    "content": "# 02 - Powtórzenie informacji z zakresu fizyki dźwięku. Interferencja.\n\n## 1. W skrócie (TL;DR)\nInterferencja to nakładanie się dwóch lub więcej fal, co powoduje ich wzmocnienie lub wygaszenie w zależności od ich wzajemnego przesunięcia (fazy).\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nHuygens stwierdził, że każdy punkt, do którego dociera fala, staje się źródłem nowej fali kulistej. Gdy fale z dwóch źródeł spotykają się w jednym punkcie, ich amplitudy sumują się. Jeśli \"górka\" spotyka się z \"górką\" (fazy zgodne), następuje **interferencja konstruktywna** (wzmocnienie). Jeśli \"górka\" spotyka się z \"dołkiem\" (przeciwfaza), następuje **interferencja destruktywna** (wygaszenie).\nW akustyce pomieszczeń interferencja prowadzi do powstawania fal stojących i filtra grzebieniowego.\n\n![Schemat interferencji](/images/02_interferencja.svg)\n\n## 3. Wytłumaczenie \"Dla Laika\"\nWyobraź sobie dwie osoby skaczące na trampolinie lub wrzucające kamienie do wody.\n- **Wzmocnienie:** Jeśli obie fale uderzą w ciebie w tym samym momencie (np. dwie fale na morzu łączą się w jedną dużą), poczujesz mocne uderzenie.\n- **Wygaszenie:** Jeśli jedna fala chce cię unieść w górę, a druga w tym samym momencie ciągnie w dół (wypełnia \"dolinę\" pierwszej fali), to w efekcie woda pozostanie płaska – nic nie poczujesz.\nTo dlatego w niektórych miejscach sali koncertowej bas jest potężny, a metr dalej prawie go nie słychać.\n\n## 4. Najważniejsze pojęcia\n*   **Interferencja konstruktywna:** Nakładanie się fal w tej samej fazie (0 stopni przesunięcia). Wynik: większa amplituda (głośniej).\n*   **Interferencja destruktywna:** Nakładanie się fal w przeciwfazie (180 stopni przesunięcia). Wynik: mniejsza amplituda lub cisza.\n*   **Faza:** Określa, w którym momencie cyklu jest fala.\n\n## 5. Niezbędne wzory\nBrak skomplikowanych wzorów do kucia, ale warto rozumieć zależność od różnicy dróg:\nJeśli różnica dróg przebytych przez dwie fale wynosi wielokrotność całej długości fali ($n \\cdot \\lambda$), mamy wzmocnienie.\nJeśli wynosi połowę długości fali ($\\lambda/2, \\ 3\\lambda/2...$), mamy wygaszenie.\n\n## 6. Zapamiętaj na egzamin\n*   Interferencja to **nakładanie się fal**.\n*   Może być **konstruktywna** (wzmocnienie) lub **destruktywna** (wygaszenie).\n*   Jest przyczyną powstawania fal stojących i \"dziur\" w paśmie przenoszenia (filtr grzebieniowy).\n",
+    "lastModified": "2026-02-06T23:30:02.899Z"
+  },
+  {
+    "id": "03 - Fizyka dźwięku. Fala stojąca.md",
+    "title": "03 - Fizyka dźwięku. Fala stojąca",
+    "content": "# 03 - Fizyka dźwięku. Fala stojąca\n\n## 1. W skrócie (TL;DR)\nFala stojąca to efekt odbicia fali od przeszkody, gdzie fala padająca i odbita nakładają się na siebie, tworząc stałe w przestrzeni \"węzły\" (cisza) i \"strzałki\" (głośno).\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nFala stojąca powstaje w wyniku interferencji dwóch fal o tej samej częstotliwości i amplitudzie, poruszających się w przeciwnych kierunkach (zazwyczaj fala padająca i odbita od ściany). Cechą charakterystyczną fali stojącej jest to, że nie przenosi ona energii w przestrzeni, a jedynie powoduje lokalne drgania ośrodka. Występują w niej punkty o stałej zerowej amplitudzie (**węzły**) oraz punkty o maksymalnej amplitudzie (**strzałki**).\n\n![Schemat fali stojącej](/images/03_fala_stojaca.svg)\n\n## 3. Wytłumaczenie \"Dla Laika\"\nPomyśl o sznurze przymocowanym do ściany, którym machasz góra-dół. W pewnym momencie wydaje się, że sznur wcale nie biegnie do ściany, tylko po prostu pulsuje w miejscu, tworząc \"brzuszki\".\nW pokoju to samo dzieje się z basem. Fala basowa odbija się od ściany i wraca. W pewnych miejscach pokoju (np. przy ścianach i w rogach) bas \"stoi\" i jest bardzo głośny (strzałki), a w innych (często na środku pokoju) znika (węzły). To nie głośniki przestały grać – to fala stojąca \"zjadła\" bas.\n\n## 4. Najważniejsze pojęcia\n*   **Węzeł (nod):** Punkt, w którym ciśnienie akustyczne jest minimalne (cisza). Cząsteczki mają tu największą prędkość, ale ciśnienie się nie zmienia.\n*   **Strzałka (antynod):** Punkt, w którym ciśnienie akustyczne jest maksymalne (bardzo głośno). Cząsteczki tu \"stoją\", ale ciśnienie szaleje. Zawsze występuje tuż przy twardej ścianie.\n*   **Mod (rezonans):** Częstotliwość, dla której w danym pomieszczeniu powstaje fala stojąca.\n\n## 5. Niezbędne wzory\nPodstawowy wzór na częstotliwość pierwszej fali stojącej (i kolejnych harmonicznych) między dwiema równoległymi ścianami:\n\n$$ f = \\frac{c}{2 \\cdot L} $$\n\nGdzie:\n*   $f$ = częstotliwość [Hz]\n*   $c$ = prędkość dźwięku (344 m/s)\n*   $L$ = odległość między ścianami [m]\n\n**Przykład:** Pokój ma 4 metry długości. Jaka częstotliwość \"wzbudzi\" się jako pierwsza?\n$f = 344 / (2 \\cdot 4) = 344 / 8 = 43$ Hz.\n(To jest ten buczący bas u sąsiada).\n\n## 6. Zapamiętaj na egzamin\n*   Przy twardej ścianie ZAWSZE jest **maksimum ciśnienia** (strzałka ciśnienia) - tam bas jest najgłośniejszy.\n*   Fala stojąca powstaje przez interferencję fali padającej i odbitej.\n*   Dla akustyki małych wnętrz fale stojące (mody) to największy problem w zakresie niskich częstotliwości.\n",
+    "lastModified": "2026-02-06T23:32:07.431Z"
+  },
+  {
+    "id": "04 - Fizyka dźwięku. Zjawisko dyfrakcji.md",
+    "title": "04 - Fizyka dźwięku. Zjawisko dyfrakcji",
+    "content": "# 04 - Fizyka dźwięku. Zjawisko dyfrakcji\n\n## 1. W skrócie (TL;DR)\nDyfrakcja to ugięcie fali na krawędzi przeszkody, pozwalające dźwiękowi \"zakręcać\" za rogi i omijać przeszkody mniejsze niż długość fali.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nZmiana kierunku rozchodzenia się fali (ugięcie) zachodząca przy przejściu fali w pobliżu krawędzi przeszkody lub przez szczelinę. Zjawisko jest silnie zależne od stosunku długości fali ($\\lambda$) do rozmiarów przeszkody ($D$).\n*   Jeśli $\\lambda \\gg D$ (fala jest dużo dłuższa niż przeszkoda), dźwięk swobodnie opływa przeszkodę (dyfrakcja silna).\n*   Jeśli $\\lambda \\ll D$ (fala jest dużo krótsza niż przeszkoda), powstaje za nią cień akustyczny (dyfrakcja słaba/brak).\n\n## 3. Wytłumaczenie \"Dla Laika\"\nDlaczego słyszysz kogoś mówiącego zza rogu budynku, ale go nie widzisz? Bo dźwięk potrafi skręcać (dyfrakcja), a światło nie (bo ma mikroskopijną długość fali).\nDyfrakcja to \"opływanie\". Wyobraź sobie falę na wodzie i wystający z niej mały kijek. Fala go opłynie i popłynie dalej nienaruszona (niskie tony, długa fala). A teraz wyobraź sobie wielki falochron. Fala się o niego rozbije i za nim będzie spokojna woda (cień akustyczny) – to dzieje się z wysokimi tonami.\n\n## 4. Najważniejsze pojęcia\n*   **Ugięcie fali:** Zmiana kierunku propagacji.\n*   **Cień akustyczny:** Obszar za przeszkodą, do którego dźwięk nie dociera (bo fala była za krótka, żeby \"zakręcić\").\n*   **Bariera akustyczna (ekran):** Działa skutecznie tylko wtedy, gdy jest znacznie większa od długości fali, którą ma zatrzymać. Dlatego ekrany przy autostradach muszą być wysokie.\n\n## 5. Niezbędne wzory\nBrak konkretnego wzoru do obliczania, ważna jest zasada:\n*   $\\lambda > D$ -> Dźwięk omija przeszkodę (dyfrakcja zachodzi).\n*   $\\lambda < D$ -> Przeszkoda zatrzymuje dźwięk (powstaje cień, odbicie).\n\n## 6. Zapamiętaj na egzamin\n*   Dźwięki niskie (długie fale) łatwo ulegają dyfrakcji (omijają głowę, kolumny, meble).\n*   Dźwięki wysokie (krótkie fale) nie ulegają łatwo dyfrakcji – zachowują się bardziej jak promienie światła (tworzą cienie).\n*   Żeby usłyszeć wysokie tony z głośnika, musisz go \"widzieć\". Bas słychać w całym pokoju, nawet jak schowasz subwoofer za kanapą.\n",
+    "lastModified": "2026-02-06T23:25:29.320Z"
+  },
+  {
+    "id": "05 - Fizyka dźwięku. Rezonans akustyczny.md",
+    "title": "05 - Fizyka dźwięku. Rezonans akustyczny",
+    "content": "# 05 - Fizyka dźwięku. Rezonans akustyczny\n\n## 1. W skrócie (TL;DR)\nRezonans to zjawisko, w którym układ (np. przedmiot, powietrze w butelce) drga z maksymalną amplitudą, gdy zostanie pobudzony dźwiękiem o częstotliwości zgodnej z jego częstotliwością własną.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nWzrost amplitudy drgań układu drgającego następuje, gdy częstotliwość siły wymuszającej pokrywa się z częstotliwością drgań własnych tego układu. W akustyce mamy do czynienia z rezonansem mechanicznym (drgania ścianek, szyb) oraz rezonansem powietrznym (rezonator Helmholtza, rury organowe, mody pomieszczeń). Każdy obiekt fizyczny posiada swoje częstotliwości rezonansowe.\n\n## 3. Wytłumaczenie \"Dla Laika\"\nPomyśl o bujaniu dziecka na huśtawce. Jeśli popychasz je dokładnie w tym momencie, w którym huśtawka wraca (zgodnie z jej rytmem), rozbujasz ją bardzo wysoko przy małym wysiłku. To jest rezonans.\nJeśli w pokoju zaczniesz \"buczeć\" i trafisz w odpowiednią nutę, nagle szyba w oknie zacznie brzęczeć – to znaczy, że trafiłeś w jej częstotliwość rezonansową. W łazience Twój głos brzmi potężnie dla pewnych dźwięków – to też rezonans (powietrza w pomieszczeniu).\n\n## 4. Najważniejsze pojęcia\n*   **Częstotliwość własna:** Naturalna częstotliwość, z jaką obiekt \"lubi\" drgać.\n*   **Rezonator Helmholtza:** Rodzaj \"akustycznej butelki\" – powietrze w szyjce drga na \"poduszce\" powietrznej wewnątrz bańki. Używany do pochłaniania konkretnych niskich częstotliwości.\n*   **Rezonans pomieszczenia:** To samo co fale stojące (mody).\n\n## 5. Niezbędne wzory\nWzór na rezonator Helmholtza (często pojawia się na egzaminach jako \"ten skomplikowany wzór\"):\n\n$$ f = \\frac{c}{2\\pi} \\sqrt{\\frac{S}{V \\cdot L}} $$\n\nGdzie:\n*   $c$ = prędkość dźwięku [344 m/s]\n*   $S$ = pole przekroju szyjki\n*   $V$ = objętość komory (bańki)\n*   $L$ = długość szyjki (efektywna) (plus poprawka na końce)\n\n(Nie musisz go zwykle liczyć w pamięci, ale wiedz, że **większa objętość V = niższa częstotliwość**, a **dłuższa szyjka L = niższa częstotliwość**).\n\n## 6. Zapamiętaj na egzamin\n*   Rezonans to gwałtowne wzmocnienie drgań przy zgodności częstotliwości.\n*   Butelka po piwie (dmuchanie w szyjkę) to klasyczny **Rezonator Helmholtza**.\n*   Rezonans służy zarówno do wzmacniania dźwięku (pudło gitary), jak i do jego pochłaniania (ustroje rezonansowe w studio).\n",
+    "lastModified": "2026-02-06T23:37:49.179Z"
+  },
+  {
+    "id": "06 - Akustyka pomieszczeń. Dźwięk w przestrzeni zamkniętej.md",
+    "title": "06 - Akustyka pomieszczeń. Dźwięk w przestrzeni zamkniętej",
+    "content": "# 06 - Akustyka pomieszczeń. Dźwięk w przestrzeni zamkniętej\n\n## 1. W skrócie (TL;DR)\nW pomieszczeniu zamkniętym do słuchacza dociera nie tylko dźwięk bezpośredni ze źródła, ale też setki odbić od ścian, sufitu i podłogi, co drastycznie zmienia jego brzmienie w porównaniu do otwartej przestrzeni.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nPole akustyczne w pomieszczeniu zamkniętym składa się z:\n1.  **Dźwięku bezpośredniego:** Dociera do słuchacza najkrótszą drogą, bez odbić. Maleje o 6 dB przy każdym podwojeniu odległości.\n2.  **Wczesnych odbić (Early Reflections):** Pierwsze odbicia docierające w ciągu ok. 50-80 ms po dźwięku bezpośrednim. Zwiększają wrażenie głośności i czytelności.\n3.  **Pola pogłosowego (Reverberant Field):** Gęsta \"chmura\" wielokrotnych odbić, które docierają później i zlewają się w jeden ciągły zanik dźwięku.\n\n## 3. Wytłumaczenie \"Dla Laika\"\nPlaża vs Jaskinia.\nNa plaży (otwarta przestrzeń) jak krzykniesz, dźwięk leci raz i znika w dal. Słychać \"sucho\".\nW jaskini (zamknięta przestrzeń) jak krzykniesz, dźwięk obija się milion razy od ścian zanim zgaśnie. Słyszysz swoje \"Echoooo-ooo-oo\". To właśnie te odbicia tworzą \"brzmienie\" pomieszczenia.\n\n## 4. Najważniejsze pojęcia\n*   **Odbicia wczesne:** Pierwsze kilka \"echa\", które mózg skleja z oryginałem. Pomagają zrozumieć mowę.\n*   **Ogon pogłosowy:** Późniejsze, gęste odbicia, które tworzą \"tło\" i \"atmosferę\". Zbyt długi ogon zamula dźwięk (\"robi hałas\").\n*   **Pola akustyczne:** W każdym pokoju są strefy, gdzie dominuje dźwięk bezpośredni (blisko głośnika) i strefy, gdzie dominuje pogłos (daleko od głośnika).\n\n## 5. Niezbędne wzory\n(Brak kluczowych wzorów na tym etapie, ważniejszy jest podział na składowe pola).\n\n## 6. Zapamiętaj na egzamin\n*   Dźwięk w pomieszczeniu to suma: **Dźwięku bezpośredniego** + **Odbić**.\n*   W otwartej przestrzeni energia ucieka bezpowrotnie. W zamkniętej - energia zostaje \"uwięziona\" i wygasa powoli.\n",
+    "lastModified": "2026-02-06T23:26:17.811Z"
+  },
+  {
+    "id": "07 - Akustyka pomieszczeń. Odbicie zwierciadlane.md",
+    "title": "07 - Akustyka pomieszczeń. Odbicie zwierciadlane",
+    "content": "# 07 - Akustyka pomieszczeń. Odbicie zwierciadlane\n\n## 1. W skrócie (TL;DR)\nOdbicie lustrzane (zwierciadlane) zachodzi na płaskiej, twardej powierzchni, gdzie kąt odbicia fali jest równy kątowi padania, tak jak światło w lustrze lub bila w bilardzie.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nGdy fala dźwiękowa pada na powierzchnię płaską, gładką i twardą (o wymiarach znacznie większych od długości fali), ulega odbiciu zgodnie z prawem Snelliusa: **Kąt padania = Kąt odbicia**. Energia fali odbitej jest bliska energii fali padającej (mała strata energii).\n\n## 3. Wytłumaczenie \"Dla Laika\"\nJak rzucisz piłką w gładką ścianę pod kątem, to odbije się ona \"symetrycznie\" w drugą stronę. To jest odbicie zwierciadlane.\nŚciana \"odbija\" dźwięk jak lustro odbija obraz. Jeśli staniesz w odpowiednim miejscu przed lustrem, zobaczysz odbicie latarki. Z dźwiękiem jest tak samo - w pewnym miejscu usłyszysz wyraźne odbicie głośnika od gołej ściany (co jest zazwyczaj złe w studio, bo myli nasz słuch).\n\n### 3.1. Praktyka: Metoda Lusterka (Mirror Trick)\nJak znaleźć miejsca pierwszych odbić na ścianach, żeby wiedzieć, gdzie powiesić panele akustyczne?\n**Użyj zwykłego lusterka.**\n1.  Usiądź w miejscu odsłuchu (na fotelu).\n2.  Poproś drugą osobę, żeby przesuwała lusterko po płaskiej ścianie bocznej (na wysokości Twoich oczu/uszu).\n3.  W momencie, gdy **zobaczysz w lusterku głośnik**, znalazłeś punkt pierwszego odbicia.\n4.  To dokładnie w tym miejscu należy powiesić absorber (panel pochłaniający), żeby zlikwidować szkodliwe odbicie.\n\n![Metoda Lusterka](/images/07_metoda_lusterka.svg)\n\n## 4. Najważniejsze pojęcia\n*   **Kąt padania = Kąt odbicia:** Święta zasada odbicia zwierciadlanego.\n*   **Powierzchnia gładka:** Taka, której nierówności są znacznie mniejsze niż długość fali dźwiękowej.\n*   **Slap echo (trzepoczące echo):** Seria szybkich, lustrzanych odbić między dwiema równoległymi ścianami (brzmi jak \"trrrrt\" kiedy klaśniesz).\n\n## 5. Niezbędne wzory\nBrak wzorów obliczeniowych, tylko zasada geometryczna: $\\alpha_{pad} = \\alpha_{odb}$.\n\n## 6. Zapamiętaj na egzamin\n*   Zachodzi na **płaskich i twardych** powierzchniach.\n*   Jest zjawiskiem \"geometrycznym\" (można je rysować kreskami jak promienie lasera).\n*   Główne źródło problemów z \"ostrym\" brzmieniem w niewyposażonych pokojach.\n",
+    "lastModified": "2026-02-06T23:49:04.524Z"
+  },
+  {
+    "id": "08 - Akustyka pomieszczeń. Rozproszenie.md",
+    "title": "08 - Akustyka pomieszczeń. Rozproszenie",
+    "content": "# 08 - Akustyka pomieszczeń. Rozproszenie\n\n## 1. W skrócie (TL;DR)\nRozproszenie (dyfuzja) to odbicie dźwięku w wielu różnych kierunkach jednocześnie, co następuje, gdy fala trafia na nierówną powierzchnię.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nGdy fala dźwiękowa pada na powierzchnię o nierównomiernej strukturze (gdzie głębokość nierówności jest porównywalna z długością fali $\\lambda$), energia nie odbija się w jednym kierunku (jak w lustrze), lecz zostaje rozproszona w wielu kierunkach. Powoduje to wyrównanie pola akustycznego w pomieszczeniu i eliminuje ostre, punktowe odbicia.\n\n## 3. Wytłumaczenie \"Dla Laika\"\nWyobraź sobie, że rzucasz garścią piłeczek pingpongowych w:\n1.  Gładką podłogę -> Wszystkie odbiją się w tą samą stronę (odbicie zwierciadlane).\n2.  Stergę kamieni o różnych kształtach -> Każda piłeczka poleci w inną stronę (rozproszenie).\nW akustyce chcemy rozproszenia, żeby dźwięk był \"miękki\" i otaczał nas z każdej strony, zamiast atakować ostrymi strzałami ze ścian.\n\n## 4. Najważniejsze pojęcia\n*   **Dyfuzor:** Specjalny ustrój akustyczny zaprojektowany, by maksymalnie rozpraszać dźwięk (np. Skyline, QRD - te dziwne klocki na ścianach w studiach).\n*   **Rozproszenie przestrzenne:** Dzięki niemu muzyka brzmi \"szeroko\" i \"przestrzennie\".\n*   **Brak echa:** Rozpraszanie likwiduje echo trzepoczące bez zabijania energii dźwięku (dźwięk wciąż lata po pokoju, ale nie w uporządkowany, męczący sposób).\n\n## 5. Niezbędne wzory\nBrak wzorów, ważna jest relacja wielkości nierówności do długości fali. Aby rozproszyć dźwięk o częstotliwości 1000 Hz, nierówności muszą mieć wielkość rzędu kilkunastu-kilkudziesięciu centymetrów.\n\n## 6. Zapamiętaj na egzamin\n*   Rozpraszanie **nie zabija** dźwięku (nie pochłania go mocno), tylko **zmienia jego kierunek**.\n*   Sprawia, że pomieszczenie brzmi \"większe\" i bardziej \"szlachetne\".\n*   Idealne pole rozproszone to takie, gdzie dźwięk płynie zewsząd z jednakową siłą (niemożliwe do osiągnięcia w pełni w praktyce).\n",
+    "lastModified": "2026-02-06T23:26:17.812Z"
+  },
+  {
+    "id": "09 - Akustyka pomieszczeń. Pochłanianie.md",
+    "title": "09 - Akustyka pomieszczeń. Pochłanianie",
+    "content": "# 09 - Akustyka pomieszczeń. Pochłanianie\n\n## 1. W skrócie (TL;DR)\nPochłanianie (absorpcja) to zamiana energii fali akustycznej na ciepło podczas uderzenia w przeszkodę, co powoduje, że fala odbita jest słabsza od padającej.\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nProces dyssypacji (rozpraszania energii), w którym energia mechaniczna fali dźwiękowej jest zamieniana na energię cieplną wewnątrz materiału (poprzez tarcie cząsteczek powietrza w porach materiału) lub poprzez drgania mechaniczne ustroju.\nWspółczynnik pochłaniania $\\alpha$ (alfa) określa, jaka część energii została pochłonięta.\n$\\alpha = 1.0$ -> 100% pochłonięte (otwarte okno).\n$\\alpha = 0.0$ -> 0% pochłonięte (idealne betonowe lustro).\n\n## 3. Wytłumaczenie \"Dla Laika\"\nRzuć piłką tenisową w:\n1.  Betonowy mur -> Piłka wróci do Ciebie prawie tak samo szybko (małe pochłanianie, duże odbicie).\n2.  Stergę poduszek -> Piłka ugrzęźnie i nie wróci albo wróci bardzo powoli (duże pochłanianie, małe odbicie).\nW akustyce \"poduszkami\" są wełna mineralna, gąbki, dywany, grube zasłony. Używamy ich, żeby w pokoju nie było echa i hałasu.\n\n## 4. Najważniejsze pojęcia\n*   **Absorpcja:** Inna nazwa pochłaniania.\n*   **Materiały porowate:** Najlepsze do pochłaniania średnich i wysokich tonów (gąbki, wełny). Działają, bo powietrze musi się \"przeciskać\" przez wąskie kanaliki, trąc o ścianki i tracąc energię.\n*   **Odbicie vs Pochłanianie:** To co nie zostanie pochłonięte (ani nie przejdzie na wylot), zostanie odbite.\n\n## 5. Niezbędne wzory\nWspółczynnik pochłaniania (definicja ideowa):\n$$ \\alpha = \\frac{E_{pochlonieta}}{E_{padajaca}} $$\n\n## 6. Zapamiętaj na egzamin\n*   Pochłanianie to **zamiana dźwięku na ciepło**.\n*   Miękkie, puszyste rzeczy pochłaniają wysokie tony.\n*   Twarde, ciężkie rzeczy raczej odbijają dźwięk.\n",
+    "lastModified": "2026-02-06T23:38:37.618Z"
+  },
+  {
+    "id": "10 - Akustyka pomieszczeń. Metody analizy akustycznej pomieszczeń.md",
+    "title": "10 - Akustyka pomieszczeń. Metody analizy akustycznej pomieszczeń",
+    "content": "# 10 - Akustyka pomieszczeń. Metody analizy akustycznej pomieszczeń\n\n## 1. W skrócie (TL;DR)\nIstnieją trzy główne sposoby (szkoły) opisywania tego, co dzieje się z dźwiękiem w pokoju: Statystyczna (ogólny chaos), Geometryczna (kreślenie promieni) i Falowa (analiza modów/rezonansów).\n\n## 2. Wytłumaczenie \"Podręcznikowe\"\nZe względu na złożoność zjawisk, akustykę wnętrz dzieli się na trzy zakresy/metody (zależne głównie od częstotliwości analizowanego dźwięku w stosunku do wielkości pomieszczenia):\n1.  **Metoda Falowa:** Traktuje dźwięk jako zjawisko fizyczne (falę). Niezbędna dla małych pomieszczeń i niskich częstotliwości (gdzie $\\lambda \\approx$ wymiary pokoju). Opisuje rezonanse (mody).\n2.  **Metoda Geometryczna:** Traktuje dźwięk jak promienie światła. Stosowana dla średnich i wysokich częstotliwości (gdzie $\\lambda \\ll$ wymiary pokoju). Opisuje odbicia zwierciadlane.\n3.  **Metoda Statystyczna:** Traktuje pole akustyczne jako zbiór losowych zdarzeń. Zakłada, że dźwięk jest wszędzie taki sam (pole rozproszone). Używana do obliczania czasu pogłosu (Sabine) w dużych salach.\n\n## 3. Wytłumaczenie \"Dla Laika\"\nJak przewidzieć zachowanie bil na stole bilardowym?\n*   **Metoda Geometryczna:** Rysujesz linie na kartce - \"jak uderzę tu, to odbije się tam i trafi do łuzy\". (Działa dla wysokich dźwięków).\n*   **Metoda Statystyczna:** Jeśli rzucisz na stół 1000 bil naraz, nie śledzisz każdej z osobna. Mówisz tylko \"średnio po 5 sekundach wszystkie się zatrzymają\". (Działa dla ogólnego pogłosu).\n*   **Metoda Falowa:** Wyobraź sobie, że stół jest mały, a bile są wielkości arbuzów. Odbijają się od obu band naraz i klinują. Tu proste rysowanie linii nie działa. (Działa dla basu w małych pokojach).\n\n## 4. Najważniejsze pojęcia\n*   **Częstotliwość Schroedera:** Granica, poniżej której używamy metody falowej (liczą się mody), a powyżej statystycznej/geometrycznej (liczy się dyfuzja i promienie).\n*   **Ray tracing:** Komputerowa symulacja metody geometrycznej (śledzenie promieni).\n\n## 5. Niezbędne wzory\nBrak wzorów, to jest klasyfikacja metodologii.\n\n## 6. Zapamiętaj na egzamin\n*   **Mały pokój + Bas** = Metoda Falowa (Mody!).\n*   **Duża sala koncertowa + Pogłos** = Metoda Statystyczna.\n*   **Projektowanie kształtu sufitu/ścian** = Metoda Geometryczna (Odbicia).\n",
+    "lastModified": "2026-02-07T00:50:39.123Z"
+  },
+  {
+    "id": "11 - Metoda statystyczna. Założenia kontra rzeczywistość (patrz - charakterystyka idealnego pola rozproszonego wg Randalla i Warda).md",
+    "title": "11 - Metoda statystyczna. Założenia kontra rzeczywistość (patrz - charakterystyka idealnego pola rozproszonego wg Randalla i Warda)",
+    "content": "# Metoda statystyczna. Założenia kontra rzeczywistość (patrz: charakterystyka idealnego pola rozproszonego wg Randalla i Warda)\n\n",
+    "lastModified": "2026-02-06T22:57:15.673Z"
+  },
+  {
+    "id": "12 - Metoda statystyczna. Współczynnik pochłaniania dźwięku.md",
+    "title": "12 - Metoda statystyczna. Współczynnik pochłaniania dźwięku",
+    "content": "# Metoda statystyczna. Współczynnik pochłaniania dźwięku\n\n",
+    "lastModified": "2026-02-06T22:57:15.673Z"
+  },
+  {
+    "id": "13 - Metoda statystyczna. Stała akustyczna pomieszczenia.md",
+    "title": "13 - Metoda statystyczna. Stała akustyczna pomieszczenia",
+    "content": "# Metoda statystyczna. Stała akustyczna pomieszczenia\n\n",
+    "lastModified": "2026-02-06T22:57:15.673Z"
+  },
+  {
+    "id": "14 - Metoda statystyczna. Ustroje pochłaniające - ustrój porowaty, ustrój perforowany.md",
+    "title": "14 - Metoda statystyczna. Ustroje pochłaniające - ustrój porowaty, ustrój perforowany",
+    "content": "# Metoda statystyczna. Ustroje pochłaniające: ustrój porowaty, ustrój perforowany\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "15 - Metoda statystyczna. Przykładowe wartości współczynnika pochłaniania.md",
+    "title": "15 - Metoda statystyczna. Przykładowe wartości współczynnika pochłaniania",
+    "content": "# Metoda statystyczna. Przykładowe wartości współczynnika pochłaniania\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "16 - Metoda statystyczna. Grubość materiału a gęstość materiału.md",
+    "title": "16 - Metoda statystyczna. Grubość materiału a gęstość materiału",
+    "content": "# Metoda statystyczna. Grubość materiału a gęstość materiału\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "17 - Metoda statystyczna. Ustroje rezonujące.md",
+    "title": "17 - Metoda statystyczna. Ustroje rezonujące",
+    "content": "# Metoda statystyczna. Ustroje rezonujące\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "18 - Metoda statystyczna. Ustroje rozpraszające.md",
+    "title": "18 - Metoda statystyczna. Ustroje rozpraszające",
+    "content": "# Metoda statystyczna. Ustroje rozpraszające\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "19 - Metoda statystyczna. Pustka powietrzna.md",
+    "title": "19 - Metoda statystyczna. Pustka powietrzna",
+    "content": "# Metoda statystyczna. Pustka powietrzna\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "20 - Metoda statystyczna. Powietrze jako ustrój pochłaniający.md",
+    "title": "20 - Metoda statystyczna. Powietrze jako ustrój pochłaniający",
+    "content": "# Metoda statystyczna. Powietrze jako ustrój pochłaniający\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "21 - Metoda statystyczna. Pogłos. Czas zaniku T60.md",
+    "title": "21 - Metoda statystyczna. Pogłos. Czas zaniku T60",
+    "content": "# Metoda statystyczna. Pogłos. Czas zaniku T60\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "22 - Metoda statystyczna. Wzór Sabine'a.md",
+    "title": "22 - Metoda statystyczna. Wzór Sabine'a",
+    "content": "# Metoda statystyczna. Wzór Sabine'a\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "23 - Metoda statystyczna. Zadania.md",
+    "title": "23 - Metoda statystyczna. Zadania",
+    "content": "# Metoda statystyczna. Zadania\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "24 - Metoda statystyczna. Poziom natężenia dźwięku a poziom ciśnienia akustycznego.md",
+    "title": "24 - Metoda statystyczna. Poziom natężenia dźwięku a poziom ciśnienia akustycznego",
+    "content": "# Metoda statystyczna. Poziom natężenia dźwięku a poziom ciśnienia akustycznego\n\n",
+    "lastModified": "2026-02-06T22:57:15.674Z"
+  },
+  {
+    "id": "25 - Metoda statystyczna. Dźwięk bezpośredni.md",
+    "title": "25 - Metoda statystyczna. Dźwięk bezpośredni",
+    "content": "# Metoda statystyczna. Dźwięk bezpośredni\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "26 - Metoda statystyczna. Dźwięk bezpośredni - spadek wraz z odległością.md",
+    "title": "26 - Metoda statystyczna. Dźwięk bezpośredni - spadek wraz z odległością",
+    "content": "# Metoda statystyczna. Dźwięk bezpośredni - spadek wraz z odległością\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "27 - Metoda statystyczna. Współczynnik kierunkowości.md",
+    "title": "27 - Metoda statystyczna. Współczynnik kierunkowości",
+    "content": "# Metoda statystyczna. Współczynnik kierunkowości\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "28 - Metoda statystyczna. Dźwięk rozproszony.md",
+    "title": "28 - Metoda statystyczna. Dźwięk rozproszony",
+    "content": "# Metoda statystyczna. Dźwięk rozproszony\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "29 - Metoda statystyczna. Poziom mocy akustycznej.md",
+    "title": "29 - Metoda statystyczna. Poziom mocy akustycznej",
+    "content": "# Metoda statystyczna. Poziom mocy akustycznej\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "30 - Metoda statystyczna. Odległość graniczna.md",
+    "title": "30 - Metoda statystyczna. Odległość graniczna",
+    "content": "# Metoda statystyczna. Odległość graniczna\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "31 - Metoda statystyczna. Poziom ciśnienia akustycznego w zależności od mocy akustycznej, kierunkowości i odległości.md",
+    "title": "31 - Metoda statystyczna. Poziom ciśnienia akustycznego w zależności od mocy akustycznej, kierunkowości i odległości",
+    "content": "# Metoda statystyczna. Poziom ciśnienia akustycznego w zależności od mocy akustycznej, kierunkowości i odległości\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "32 - Metoda statystyczna. Zadania (2).md",
+    "title": "32 - Metoda statystyczna. Zadania (2)",
+    "content": "# Metoda statystyczna. Zadania\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "33 - Metoda statystyczna. Omówienie zadań.md",
+    "title": "33 - Metoda statystyczna. Omówienie zadań",
+    "content": "# Metoda statystyczna. Omówienie zadań\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "34 - Metoda falowa. Mody rezonansowe.md",
+    "title": "34 - Metoda falowa. Mody rezonansowe",
+    "content": "# Metoda falowa. Mody rezonansowe\n\n",
+    "lastModified": "2026-02-06T22:57:15.675Z"
+  },
+  {
+    "id": "35 - Metoda falowa. Mody rezonansowe w pomieszczeniach prostopadłościennych.md",
+    "title": "35 - Metoda falowa. Mody rezonansowe w pomieszczeniach prostopadłościennych",
+    "content": "# Metoda falowa. Mody rezonansowe w pomieszczeniach prostopadłościennych\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "36 - Metoda falowa. Częstotliwość Schroedera.md",
+    "title": "36 - Metoda falowa. Częstotliwość Schroedera",
+    "content": "# Metoda falowa. Częstotliwość Schroedera\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "37 - Metoda falowa. Zadania.md",
+    "title": "37 - Metoda falowa. Zadania",
+    "content": "# Metoda falowa. Zadania\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "38 - Metoda geometryczna. Przykłady.md",
+    "title": "38 - Metoda geometryczna. Przykłady",
+    "content": "# Metoda geometryczna. Przykłady\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "39 - Pomiary akustyczne - metodologia.md",
+    "title": "39 - Pomiary akustyczne - metodologia",
+    "content": "# Pomiary akustyczne: metodologia\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "40 - Pomiary akustyczne - ITDG, EDT, inne.md",
+    "title": "40 - Pomiary akustyczne - ITDG, EDT, inne",
+    "content": "# Pomiary akustyczne: ITDG, EDT, inne\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "41 - Filtr grzebieniowy - teoria, pomiary rzeczywiste, w jakich warunkach jest bardziej problematyczny a w jakich pomijalny - sposoby unikania.md",
+    "title": "41 - Filtr grzebieniowy - teoria, pomiary rzeczywiste, w jakich warunkach jest bardziej problematyczny a w jakich pomijalny - sposoby unikania",
+    "content": "# Filtr grzebieniowy: teoria, pomiary rzeczywiste, w jakich warunkach jest bardziej problematyczny a w jakich pomijalny; sposoby unikania\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  },
+  {
+    "id": "42 - Kształtowanie akustyki pomieszczeń. Zasady ogólne - pochłanianie dźwięku vs rozpraszanie dźwięku - kontrola kierunków odbić.md",
+    "title": "42 - Kształtowanie akustyki pomieszczeń. Zasady ogólne - pochłanianie dźwięku vs rozpraszanie dźwięku - kontrola kierunków odbić",
+    "content": "# Kształtowanie akustyki pomieszczeń. Zasady ogólne; pochłanianie dźwięku vs rozpraszanie dźwięku; kontrola kierunków odbić\n\n",
+    "lastModified": "2026-02-06T22:57:15.676Z"
+  }
+]

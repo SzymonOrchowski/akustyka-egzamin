@@ -1,0 +1,23 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white" />
+<line x1="40" y1="50" x2="560" y2="50" stroke="black" stroke-width="4" />
+<text x="300.0" y="40" text-anchor="middle" font-family="Arial" font-size="12">Ściana boczna</text>
+<rect x="80" y="280" width="40" height="40" fill="gray" stroke="black" />
+<text x="100" y="335" text-anchor="middle" font-family="Arial" font-size="12">Głośnik</text>
+<circle cx="500" cy="300" r="15" fill="none" stroke="black" stroke-width="2" />
+<circle cx="500" cy="300" r="5" fill="black" />
+<text x="500" y="335" text-anchor="middle" font-family="Arial" font-size="12">Słuchacz</text>
+<line x1="125" y1="300" x2="480" y2="300" stroke="gray" stroke-width="1" stroke-dasharray="4" />
+<text x="300" y="315" text-anchor="middle" fill="gray" font-size="10">Dźwięk bezpośredni</text>
+<line x1="100" y1="300" x2="300.0" y2="50" stroke="blue" stroke-width="2" />
+<line x1="300.0" y1="50" x2="500" y2="300" stroke="blue" stroke-width="2" />
+<line x1="300.0" y1="50" x2="300.0" y2="150" stroke="black" stroke-width="1" stroke-dasharray="2" />
+<rect x="270.0" y="47" width="60" height="6" fill="silver" stroke="black" />
+<text x="300.0" y="80" text-anchor="middle" fill="blue" font-weight="bold" font-size="12">LUSTERKO</text>
+<text x="300.0" y="95" text-anchor="middle" fill="blue" font-size="10">(Punkt pierwszego odbicia)</text>
+<path d="M 270.0 50 Q 285.0 80 300.0 80" fill="none" stroke="red" />
+<path d="M 330.0 50 Q 315.0 80 300.0 80" fill="none" stroke="red" />
+<text x="260.0" y="130" font-size="10" fill="red">Kąt padania</text>
+<text x="340.0" y="130" font-size="10" fill="red">Kąt odbicia</text>
+<text x="300.0" y="130" font-size="12" fill="red">=</text>
+</svg>
